@@ -23,7 +23,7 @@ Config:
 
 Compilation:
 
-`cmake -j$(nproc) .`
+`cmake --build -j$(nproc) .`
 
 ---
 
