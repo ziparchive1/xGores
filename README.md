@@ -1,5 +1,5 @@
 # xGores Open Source Project
-
+# xGores is still on beta and may have some errors
 ***xGores*** OpenGores fork for ddnet 20+ & Stun support [ https://github.com/ddnet/ddnet/pull/13036  ]
  
 * [DDNet](https://github.com/ddnet/ddnet) — Official DDNet repository.
