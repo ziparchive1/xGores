@@ -135,8 +135,8 @@ void CGameControllerXGores::OnPlayerConnect(CPlayer *pPlayer)
                 str_format(aBuf, sizeof(aBuf), "'%s' entered and joined the %s", Server()->ClientName(ClientID), GetTeamName(pPlayer->GetTeam()));
                 GameServer()->SendChat(-1, protocol7::CHAT_ALL, aBuf);
 
-                GameServer()->SendChatTarget(ClientID, "DDraceNetwork Mod. Version: " GAME_VERSION);
-                GameServer()->SendChatTarget(ClientID, "please visit DDNet.org or say /info and make sure to read our /rules");
+                GameServer()->SendChatTarget(ClientID, "xGores BETA 1.0, Base version: " GAME_VERSION);
+                GameServer()->SendChatTarget(ClientID, "If you encounter any issues, please report them on the xGores GitHub issues page. Good luck!");
         }
 }
 
