@@ -1,4 +1,5 @@
 /* (c) Shereef Marzouk. See "licence DDRace.txt" and the readme.txt in the root of the distribution for more information. */
+/* modifed by xx11org */
 #ifndef GAME_SERVER_GAMEMODES_DDRACE_H
 #define GAME_SERVER_GAMEMODES_DDRACE_H
 
