@@ -1,5 +1,7 @@
 /* (c) Magnus Auvinen. See licence.txt in the root of the distribution for more information. */
 /* If you are missing that file, acquire a complete release at teeworlds.com.                */
+
+/* modifed by xx11org */
 #include "gamecontext.h"
 
 #include "entities/character.h"
