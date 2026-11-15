@@ -19,7 +19,7 @@ cmake make gcc git pkgconf cargo rust
 
 Config:
 
-`mkdir build && cd build && cmake -DCLIENT=OFF`
+`mkdir build && cd build && cmake -DCLIENT=OFF ..`
 
 Compilation:
 
