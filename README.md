@@ -35,9 +35,6 @@ just add
 
 # Done! Thanks
 
-For help:
-
-DS-m1rxx11org
-or
-https://bit.ly/xx11org-bio
+Want buy me a ***chicory*** ☕? (yes, I prefer it over coffee!)
+Just star this repo, pls :D
 
